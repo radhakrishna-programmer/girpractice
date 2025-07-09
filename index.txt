@@ -1,5 +1,10 @@
+
 im going to practice git
 This is the first file 
 
 
+<<<<<<< HEAD
 this change is made in the branch 1
+=======
+this is from branch2
+>>>>>>> branch2
