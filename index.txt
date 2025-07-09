@@ -1,5 +1,8 @@
 
 im going to practice git
+
+
+Made a change after adding to vscode
 This is the first file 
 
 
