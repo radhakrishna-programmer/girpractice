@@ -6,8 +6,12 @@ Made a change after adding to vscode
 This is the first file 
 
 
-<<<<<<< HEAD
 this change is made in the branch 1
-=======
+
+
+
+made a change in github
+
 this is from branch2
->>>>>>> branch2
+
+
