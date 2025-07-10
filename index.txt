@@ -1,17 +1,6 @@
-
-im going to practice git
-
-
-Made a change after adding to vscode
-This is the first file 
-
-
+this got fucked
 this change is made in the branch 1
-
-
-
 made a change in github
-
 this is from branch2
 
 
